@@ -1,0 +1,263 @@
+<div>
+  <h4 class="fw-bold mb-4" style="color: var(--lux-heading);">Innovation form — section titles and built-in fields</h4>
+
+  <!--Section title -->
+  <div class="card shadow-sm p-4 mb-3 border" style="background-color: var(--lux-surface); border-color: var(--lux-border) !important;">
+    <div class="fw-bold mb-3 small" style="color: var(--lux-muted);">Section title</div>
+    <div class="row g-3">
+      <div class="col-md-6">
+        <div class="fw-bold mb-1 small" style="color: var(--lux-text);">Arabic</div>
+        <input type="text" class="form-control bg-transparent text-body border-secondary" value="بيانات مقدم الابتكار">
+      </div>
+      <div class="col-md-6">
+        <div class="fw-bold mb-1 small" style="color: var(--lux-text);">English</div>
+        <input type="text" class="form-control bg-transparent text-body border-secondary" value="1. Innovator details">
+      </div>
+    </div>
+  </div>
+
+ 
+  <div class="card shadow-sm p-4 mb-4 border" style="background-color: var(--lux-surface); border-color: var(--lux-border) !important;">
+    <div class="fw-bold mb-3 small" style="color: var(--lux-muted);">Section title</div>
+    <div class="row g-3">
+      <div class="col-md-6">
+        <div class="fw-bold mb-1 small" style="color: var(--lux-text);">Arabic</div>
+        <input type="text" class="form-control bg-transparent text-body border-secondary">
+      </div>
+      <div class="col-md-6">
+        <div class="fw-bold mb-1 small" style="color: var(--lux-text);">English</div>
+        <input type="text" class="form-control bg-transparent text-body border-secondary" value="2. Innovation details">
+      </div>
+    </div>
+  </div>
+
+  
+  <div class="row g-4 mb-4">
+ 
+    <div class="col-md-3">
+      <div class="card shadow-sm p-3 h-100 border" style="background-color: var(--lux-surface); border-color: var(--lux-border) !important;">
+        <div class="d-flex align-items-center gap-2 mb-3">
+          <span class="badge px-2 py-1" style="background-color: var(--lux-primary-soft); color: var(--lux-primary);">name</span>
+          <span class="fw-bold small" style="color: var(--lux-heading);">Full name (four parts)</span>
+        </div>
+        <div class="mb-2">
+          <label class="form-label text-muted" style="font-size: 0.75rem;">Arabic field label</label>
+          <input type="text" class="form-control form-control-sm bg-transparent text-body border-secondary" value="الاسم الرباعي">
+        </div>
+        <div class="mb-2">
+          <label class="form-label text-muted" style="font-size: 0.75rem;">English field label</label>
+          <input type="text" class="form-control form-control-sm bg-transparent text-body border-secondary" value="Full name (four parts)">
+        </div>
+        <div class="mb-3">
+          <label class="form-label text-muted" style="font-size: 0.75rem;">Field type</label>
+         
+          <select class="form-select form-select-sm bg-transparent text-body border-secondary">
+            <option selected style="background-color: var(--lux-surface);">Short text</option>
+            <option style="background-color: var(--lux-surface);">Long text</option>
+            <option style="background-color: var(--lux-surface);">Email</option>
+            <option style="background-color: var(--lux-surface);">Single choice</option>
+            <option style="background-color: var(--lux-surface);">Multiple choice</option>
+          </select>
+        </div>
+        <div class="form-check mb-3">
+          <input class="form-check-input" type="checkbox" id="req1" checked>
+          <label class="form-check-label" style="font-size: 0.8rem; color: var(--lux-text);" for="req1">Required field</label>
+        </div>
+        <div class="form-check mb-3">
+          <input class="form-check-input" type="checkbox" id="hide1">
+          <label class="form-check-label" style="font-size: 0.8rem; color: var(--lux-text);" for="hide1">Hide this field from the form</label>
+        </div>
+        <button class="btn btn-outline-light btn-sm w-100 mt-auto">Restore this field</button>
+      </div>
+    </div>
+
+    
+    <div class="col-md-3">
+      <div class="card shadow-sm p-3 h-100 border" style="background-color: var(--lux-surface); border-color: var(--lux-border) !important;">
+        <div class="d-flex align-items-center gap-2 mb-3">
+          <span class="badge px-2 py-1" style="background-color: var(--lux-primary-soft); color: var(--lux-primary);">fac</span>
+          <span class="fw-bold small" style="color: var(--lux-heading);">Faculty / institute</span>
+        </div>
+        <div class="mb-2">
+          <label class="form-label text-muted" style="font-size: 0.75rem;">Arabic field label</label>
+          <input type="text" class="form-control form-control-sm bg-transparent text-body border-secondary" value="الكلية / المعهد">
+        </div>
+        <div class="mb-2">
+          <label class="form-label text-muted" style="font-size: 0.75rem;">English field label</label>
+          <input type="text" class="form-control form-control-sm bg-transparent text-body border-secondary" value="Faculty / institute">
+        </div>
+        <div class="mb-2">
+          <label class="form-label text-muted" style="font-size: 0.75rem;">Field type</label>
+          <select class="form-select form-select-sm bg-transparent text-body border-secondary">
+            <option style="background-color: var(--lux-surface);">Short text</option>
+            <option style="background-color: var(--lux-surface);">Long text</option>
+            <option style="background-color: var(--lux-surface);">Email</option>
+            <option selected style="background-color: var(--lux-surface);">Single choice</option>
+            <option style="background-color: var(--lux-surface);">Multiple choice</option>
+          </select>
+        </div>
+        <div class="mb-2">
+          <label class="form-label text-muted" style="font-size: 0.70rem;">Choices (Arabic|English, comma-separated)</label>
+          <input type="text" class="form-control form-control-sm bg-transparent text-body border-secondary" value="Faculty of Computers & Information">
+        </div>
+        <div class="form-check mb-2">
+          <input class="form-check-input" type="checkbox" id="req2" checked>
+          <label class="form-check-label" style="font-size: 0.8rem; color: var(--lux-text);" for="req2">Required field</label>
+        </div>
+        <div class="form-check mb-2">
+          <input class="form-check-input" type="checkbox" id="hide2">
+          <label class="form-check-label" style="font-size: 0.8rem; color: var(--lux-text);" for="hide2">Hide this field from the form</label>
+        </div>
+        <button class="btn btn-outline-light btn-sm w-100 mt-auto">Restore this field</button>
+      </div>
+    </div>
+
+   
+    <div class="col-md-3">
+      <div class="card shadow-sm p-3 h-100 border" style="background-color: var(--lux-surface); border-color: var(--lux-border) !important;">
+        <div class="d-flex align-items-center gap-2 mb-3">
+          <span class="badge px-2 py-1" style="background-color: var(--lux-primary-soft); color: var(--lux-primary);">dept</span>
+          <span class="fw-bold small" style="color: var(--lux-heading);">Department</span>
+        </div>
+        <div class="mb-2">
+          <label class="form-label text-muted" style="font-size: 0.75rem;">Arabic field label</label>
+          <input type="text" class="form-control form-control-sm bg-transparent text-body border-secondary" value="القسم">
+        </div>
+        <div class="mb-2">
+          <label class="form-label text-muted" style="font-size: 0.75rem;">English field label</label>
+          <input type="text" class="form-control form-control-sm bg-transparent text-body border-secondary" value="Department">
+        </div>
+        <div class="mb-3">
+          <label class="form-label text-muted" style="font-size: 0.75rem;">Field type</label>
+          <select class="form-select form-select-sm bg-transparent text-body border-secondary">
+            <option selected style="background-color: var(--lux-surface);">Short text</option>
+            <option style="background-color: var(--lux-surface);">Long text</option>
+            <option style="background-color: var(--lux-surface);">Email</option>
+            <option style="background-color: var(--lux-surface);">Single choice</option>
+            <option style="background-color: var(--lux-surface);">Multiple choice</option>
+          </select>
+        </div>
+        <div class="form-check mb-3">
+          <input class="form-check-input" type="checkbox" id="req3" checked>
+          <label class="form-check-label" style="font-size: 0.8rem; color: var(--lux-text);" for="req3">Required field</label>
+        </div>
+        <div class="form-check mb-3">
+          <input class="form-check-input" type="checkbox" id="hide3">
+          <label class="form-check-label" style="font-size: 0.8rem; color: var(--lux-text);" for="hide3">Hide this field from the form</label>
+        </div>
+        <button class="btn btn-outline-light btn-sm w-100 mt-auto">Restore this field</button>
+      </div>
+    </div>
+
+    
+    <div class="col-md-3">
+      <div class="card shadow-sm p-3 h-100 border" style="background-color: var(--lux-surface); border-color: var(--lux-border) !important;">
+        <div class="d-flex align-items-center gap-2 mb-3">
+          <span class="badge px-2 py-1" style="background-color: var(--lux-primary-soft); color: var(--lux-primary);">deg</span>
+          <span class="fw-bold small" style="color: var(--lux-heading);">Academic degree / position</span>
+        </div>
+        <div class="mb-2">
+          <label class="form-label text-muted" style="font-size: 0.75rem;">Arabic field label</label>
+          <input type="text" class="form-control form-control-sm bg-transparent text-body border-secondary" value="الدرجة العلمية / الوظيفة">
+        </div>
+        <div class="mb-2">
+          <label class="form-label text-muted" style="font-size: 0.75rem;">English field label</label>
+          <input type="text" class="form-control form-control-sm bg-transparent text-body border-secondary" value="Academic degree / position">
+        </div>
+        <div class="mb-3">
+          <label class="form-label text-muted" style="font-size: 0.75rem;">Field type</label>
+          <select class="form-select form-select-sm bg-transparent text-body border-secondary">
+            <option selected style="background-color: var(--lux-surface);">Short text</option>
+            <option style="background-color: var(--lux-surface);">Long text</option>
+            <option style="background-color: var(--lux-surface);">Email</option>
+            <option style="background-color: var(--lux-surface);">Single choice</option>
+            <option style="background-color: var(--lux-surface);">Multiple choice</option>
+          </select>
+        </div>
+        <div class="form-check mb-3">
+          <input class="form-check-input" type="checkbox" id="req4" checked>
+          <label class="form-check-label" style="font-size: 0.8rem; color: var(--lux-text);" for="req4">Required field</label>
+        </div>
+        <div class="form-check mb-3">
+          <input class="form-check-input" type="checkbox" id="hide4">
+          <label class="form-check-label" style="font-size: 0.8rem; color: var(--lux-text);" for="hide4">Hide this field from the form</label>
+        </div>
+        <button class="btn btn-outline-light btn-sm w-100 mt-auto">Restore this field</button>
+      </div>
+    </div>
+  </div>
+
+
+
+  <!--Additional custom fields  -->
+  <h4 class="fw-bold mb-3" style="color: var(--lux-heading);">Additional custom fields</h4>
+  <div class="card shadow-sm p-4 border" style="background-color: var(--lux-surface); border-color: var(--lux-border) !important;">
+    <div class="mb-3">
+      <label class="form-label small fw-semibold" style="color: var(--lux-text);">Field label</label>
+      <input type="text" class="form-control bg-transparent text-body border-secondary">
+    </div>
+    <div class="mb-3">
+      <label class="form-label small fw-semibold" style="color: var(--lux-text);">Field type</label>
+
+      <select class="form-select bg-transparent text-body border-secondary">
+        <option selected style="background-color: var(--lux-surface);">Select...</option>
+        <option style="background-color: var(--lux-surface);">Single-line text</option>
+        <option style="background-color: var(--lux-surface);">Long text</option>
+        <option style="background-color: var(--lux-surface);">Choice</option>
+      </select>
+    </div>
+    <div class="mb-3">
+      <label class="form-label small fw-semibold" style="color: var(--lux-text);">Choices (comma separated)</label>
+      <input type="text" class="form-control bg-transparent text-body border-secondary">
+    </div>
+    <div class="form-check mb-4">
+      <input class="form-check-input" type="checkbox" id="addReq">
+      <label class="form-check-label small" style="color: var(--lux-text);" for="addReq">Required field</label>
+    </div>
+    <div>
+      <button class="btn btn-primary px-4 py-2">Add field</button>
+    </div>
+  </div>
+
+  <!-- Custom field-->
+  <div class="card shadow-sm p-4 mt-4 border" style="background-color: var(--lux-surface); border-color: var(--lux-border) !important;">
+    <div class="d-flex align-items-center gap-2 mb-3">
+      <span class="badge px-2 py-1" style="background-color: var(--lux-primary-soft); color: var(--lux-primary);">Custom field</span>
+      <span class="fw-bold text-white fs-6">Stage</span>
+    </div>
+
+    <div class="mb-3">
+      <label class="form-label small fw-semibold" style="color: var(--lux-text);">Field label</label>
+      <input type="text" class="form-control bg-transparent text-body border-secondary" value="Development stage">
+    </div>
+
+    <div class="row g-3 mb-3">
+      <div class="col-md-8">
+        <label class="form-label small fw-semibold" style="color: var(--lux-text);">Field type</label>
+        <select class="form-select bg-transparent text-body border-secondary">
+          <option selected style="background-color: var(--lux-surface);">Select...</option>
+          <option style="background-color: var(--lux-surface);">Single-line text</option>
+          <option style="background-color: var(--lux-surface);">Long text</option>
+          <option style="background-color: var(--lux-surface);">Choice</option>
+        </select>
+      </div>
+      <div class="col-md-4 d-flex align-items-end">
+        <div class="form-check mb-2">
+          <input class="form-check-input" type="checkbox" id="stageReq">
+          <label class="form-check-label small" style="color: var(--lux-text);" for="stageReq">Required field</label>
+        </div>
+      </div>
+    </div>
+
+    <div class="mb-4">
+      <label class="form-label small fw-semibold" style="color: var(--lux-text);">Choices separated by commas</label>
+      <input type="text" class="form-control bg-transparent text-body border-secondary" value="Idea,Lab,Pilot">
+    </div>
+
+    <div>
+      <button class="btn btn-danger w-100 py-2 fw-bold" style="background-color: var(--lux-danger-bg); color: var(--lux-danger); border: 1px solid var(--lux-danger);">
+        Delete custom field
+      </button>
+    </div>
+  </div>
+</div>

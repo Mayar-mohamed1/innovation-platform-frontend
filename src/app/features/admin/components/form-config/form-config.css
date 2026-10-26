@@ -1,0 +1,5 @@
+.btn-outline-primary.active-tab {
+  background-color: var(--lux-primary, #8f97ff) !important;
+  color: var(--lux-on-primary, #0c0f2a) !important;
+  border-color: var(--lux-primary, #8f97ff) !important;
+}

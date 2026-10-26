@@ -1,0 +1,24 @@
+
+.researcher-sidebar {
+  background-color: var(--lux-surface, #0a0d2e);
+  border-right: 1px solid var(--lux-border, #2b3170);
+}
+
+  .researcher-sidebar .nav-link {
+    transition: all 0.2s ease;
+    color: var(--lux-muted, #a3a8d6) !important;
+    font-size: 0.95rem;
+  }
+
+    .researcher-sidebar .nav-link:hover {
+      background-color: rgba(var(--lux-primary-rgb), 0.1);
+      color: var(--lux-heading, #ffffff) !important;
+    }
+
+   
+    .researcher-sidebar .nav-link.active {
+      background-color: var(--lux-primary-soft, #1a2058) !important;
+      color: var(--lux-primary, #8f97ff) !important;
+      border: 1px solid var(--lux-border, #2b3170);
+      font-weight: 700;
+    }

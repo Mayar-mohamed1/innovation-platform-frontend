@@ -1,0 +1,32 @@
+.hero-section {
+  background: linear-gradient(135deg, var(--lux-navy, #0d1244) 0%, #161a3a 100%);
+  min-height: 80vh;
+  display: flex;
+  align-items-center;
+}
+
+.hero-logo-card {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+
+.lux-card {
+  background-color: var(--lux-surface, #141842);
+  border: 1px solid var(--lux-border, #2b3170);
+  border-radius: 8px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+  .lux-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+  }
+
+.lux-badge {
+  background-color: rgba(143, 151, 255, 0.15);
+  color: var(--lux-primary, #8f97ff);
+  font-weight: 500;
+  border: 1px solid rgba(143, 151, 255, 0.3);
+}

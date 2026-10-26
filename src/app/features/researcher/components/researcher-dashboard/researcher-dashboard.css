@@ -1,0 +1,22 @@
+.researcher-sidebar {
+  background-color: var(--lux-navy, #0d1244);
+  min-height: calc(100vh - 70px);
+}
+
+  .researcher-sidebar .nav-link {
+    transition: all 0.2s ease;
+    color: #a3a8d6 !important;
+    font-size: 0.95rem;
+  }
+
+    .researcher-sidebar .nav-link:hover {
+      background-color: rgba(143, 151, 255, 0.08);
+      color: #ffffff !important;
+    }
+
+   
+    .researcher-sidebar .nav-link.active {
+      background-color: #8f97ff !important;
+      color: #0c0f2a !important;
+      font-weight: 700;
+    }

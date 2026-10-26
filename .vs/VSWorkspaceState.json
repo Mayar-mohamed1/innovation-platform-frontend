@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\public",
+    "\\public\\i18n",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\features",
+    "\\src\\app\\features\\auth\\login\\login-researcher-company",
+    "\\src\\app\\shared",
+    "\\src\\app\\shared\\components",
+    "\\src\\app\\shared\\components\\navbar",
+    "\\src\\styles"
+  ],
+  "SelectedNode": "\\src\\index.html",
+  "PreviewInSolutionExplorer": false
+}

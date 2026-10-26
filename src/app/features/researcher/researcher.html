@@ -1,0 +1,23 @@
+<div class="d-flex" style="min-height: 85vh;">
+
+  <div class="researcher-sidebar p-3 border-end" style="width: 260px; border-color: var(--lux-border) !important;">
+    <div class="small fw-bold mb-3 px-2" style="color: var(--lux-muted);">Researcher</div>
+    <ul class="nav flex-column gap-2">
+      <li class="nav-item">
+        <a routerLink="dashboard" routerLinkActive="active" class="nav-link d-flex align-items-center gap-2 px-3 py-2 rounded-2">
+          <i class="fa-solid fa-table-cells-large"></i> Dashboard
+        </a>
+      </li>
+      <li class="nav-item">
+        <a routerLink="submit-innovation" routerLinkActive="active" class="nav-link d-flex align-items-center gap-2 px-3 py-2 rounded-2">
+          <i class="fa-solid fa-lightbulb"></i> Submit innovation
+        </a>
+      </li>
+    </ul>
+  </div>
+
+ 
+  <div class="flex-grow-1 p-4">
+    <router-outlet></router-outlet>
+  </div>
+</div>

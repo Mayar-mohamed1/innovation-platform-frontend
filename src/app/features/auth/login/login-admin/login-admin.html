@@ -1,0 +1,48 @@
+<div class="container d-flex justify-content-center align-items-center py-5">
+  <div class="card shadow-lg p-5 border w-100" style="max-width: 680px; background-color: var(--lux-surface); border-color: var(--lux-border) !important;">
+
+   
+    <div class="mb-4">
+      <a routerLink="/login-options" class="btn btn-outline-primary btn-sm px-4">
+        <i class="fa-solid fa-arrow-left me-2"></i> Back
+      </a>
+    </div>
+
+   
+    <div class="d-flex align-items-center gap-3 mb-3">
+      <div class="bg-white rounded p-1 d-flex align-items-center justify-content-center shadow-sm" style="width: 130px; height: 130px;">
+        <img src="assets/images/luxor-uni-logo.png" alt="Luxor University Logo" class="img-fluid" style="max-height: 150px; object-fit: contain;">
+      </div>
+      <div>
+        <span class="badge px-3 py-1 fw-bold mb-1" style="background-color: var(--lux-primary-soft); color: var(--lux-primary);">
+          Administrator
+        </span>
+        <h2 class="fw-bold mb-0 text-white" style="color: var(--lux-heading);">Admin sign in</h2>
+      </div>
+    </div>
+
+    <p class="mb-4 small" style="color: var(--lux-muted);">Manage submissions, reviewers, categories and form configuration.</p>
+
+    
+
+    
+    <form class="needs-validation">
+      <div class="mb-3">
+        <label class="form-label small fw-semibold" style="color: var(--lux-text);">Administrator email</label>
+        <input type="email" class="form-control bg-transparent text-body border-secondary py-2" required>
+      </div>
+
+      <div class="mb-4">
+        <label class="form-label small fw-semibold" style="color: var(--lux-text);">Password</label>
+        <input type="password" class="form-control bg-transparent text-body border-secondary py-2" required>
+      </div>
+
+      <div>
+        <button type="submit" class="btn btn-outline-primary w-100 py-2 fw-bold" routerLink="/admin/overview">
+          Enter
+        </button>
+      </div>
+    </form>
+
+  </div>
+</div>

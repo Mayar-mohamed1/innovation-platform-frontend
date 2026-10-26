@@ -1,0 +1,60 @@
+:root,
+:root[data-bs-theme='light'] {
+  /* logo */
+  --lux-primary: #202890;
+  --lux-primary-rgb: 32, 40, 144;
+  --lux-primary-soft: #e7eafb;
+  --lux-primary-on-soft: #202890;
+  --lux-on-primary: #ffffff;
+  --lux-navy: #0d1244;
+  --lux-on-navy: #ffffff;
+  --lux-on-navy-muted: #cfd3f7;
+  --lux-accent: #c9a24a;
+  /* bg&text */
+  --lux-bg: #f5f6fb;
+  --lux-bg-rgb: 245, 246, 251;
+  --lux-surface: #ffffff;
+  --lux-text: #161a3a;
+  --lux-text-rgb: 22, 26, 58;
+  --lux-muted: #5b6086;
+  --lux-heading: #0d1244;
+  --lux-border: #d9dcef;
+  --lux-focus: #6f78ff;
+  /* badges&panels color */
+  --lux-success: #17703f;
+  --lux-success-bg: #dff3e6;
+  --lux-warning: #8a5a00;
+  --lux-warning-bg: #fff0cc;
+  --lux-danger: #a3262a;
+  --lux-danger-bg: #fbe3e3;
+}
+
+  :root[data-bs-theme='dark'] {
+    /* luxor univ logo*/
+    --lux-primary: #8f97ff;
+    --lux-primary-rgb: 143, 151, 255;
+    --lux-primary-soft: #1a2058;
+    --lux-primary-on-soft: #b4baff;
+    --lux-on-primary: #0c0f2a;
+    --lux-navy: #0a0d2e;
+    --lux-on-navy: #ffffff;
+    --lux-on-navy-muted: #cfd3f7;
+    --lux-accent: #c9a24a;
+    /* bg colos&texts*/
+    --lux-bg: #0c0f2a;
+    --lux-bg-rgb: 12, 15, 42;
+    --lux-surface: #141842;
+    --lux-text: #eceefc;
+    --lux-text-rgb: 236, 238, 252;
+    --lux-muted: #a3a8d6;
+    --lux-heading: #ffffff;
+    --lux-border: #2b3170;
+    --lux-focus: #6f78ff;
+    /* warnings colors*/
+    --lux-success: #7fdca5;
+    --lux-success-bg: #12382a;
+    --lux-warning: #ffd67a;
+    --lux-warning-bg: #41330f;
+    --lux-danger: #ff9fa2;
+    --lux-danger-bg: #432024;
+  }

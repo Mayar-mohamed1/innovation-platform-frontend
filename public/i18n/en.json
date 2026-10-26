@@ -1,0 +1,77 @@
+{
+  "nav": {
+    "home": "Home",
+    "innovations": "Innovations",
+    "challenges": "Challenges",
+    "login": "Login",
+    "register": "Register",
+    "viewAs": "View as"
+  },
+  "home": {
+    "title": "Where Luxor University Research Meets Real-World Challenges",
+    "subtitle": "Researchers share innovations, companies present challenges, and the review team manually records potential matches.",
+    "ctaJoin": "Join Platform",
+    "ctaInnovations": "Browse Innovations",
+    "ctaChallenges": "Browse Challenges"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "switchToLight": "Switch to light mode",
+    "switchToDark": "Switch to dark mode"
+  },
+  "language": {
+    "current": "English",
+    "switchTo": "العربية"
+  },
+
+
+
+
+
+
+
+  "sections": {
+    "featuredInnovations": "Featured Innovations",
+    "featuredChallenges": "Featured Challenges",
+    "howItWorks": "How the Platform Works",
+    "detailsButton": "View Details"
+  },
+  "innovations": {
+    "palmRoofing": "Palm Fiber Roofing Panels",
+    "palmRoofingDesc": "Lightweight insulated panels made from palm waste, tested for heat resistance in hot climates.",
+    "solarIrrigation": "Solar-Powered Irrigation Device",
+    "solarIrrigationDesc": "Low-cost controller scheduling irrigation based on soil moisture with a small solar panel, designed for Upper Egypt farms.",
+    "tagProduct": "Product Innovation",
+    "tagPractical": "Practical Innovation"
+  },
+  "challenges": {
+    "coolingChallenge": "Low-Cost Cooling for Packing Stations",
+    "coolingChallengeDesc": "A fruit supplier needs cooling that reduces electricity costs without harming product quality.",
+    "caneWaterChallenge": "Reducing Water Loss in Sugarcane Canals",
+    "caneWaterChallengeDesc": "A sugar company seeks practical solutions to measure and reduce leakage across 40 km of canals.",
+    "tagAgri": "Product, Energy, Environment",
+    "tagCane": "Agricultural, Food, Energy, Environment"
+  },
+  "howItWorksSteps": {
+    "step1Title": "Register",
+    "step1Desc": "Researchers and companies create an account.",
+    "step2Title": "Submit",
+    "step2Desc": "Send an innovation or challenge with attachments.",
+    "step3Title": "Admin Review",
+    "step3Desc": "Management determines the status after review.",
+    "step4Title": "Manual Matching",
+    "step4Desc": "Reviewers compare general summaries and record matches."
+  },
+  "nav": {
+    "home": "Home",
+    "innovations": "Innovations",
+    "challenges": "Challenges",
+    "login": "Login",
+    "register": "Register",
+    "viewAs": "View as",
+    "platformTitle": "Innovative Luxor University",
+    "platformTitle": "Innovative Luxor University",
+    "platformSubtitle": "Luxor University"
+  }
+}

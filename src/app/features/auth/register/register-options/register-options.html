@@ -1,0 +1,83 @@
+<div class="container-fluid pt-4 pb-5">
+  <div class="container" style="max-width: 750px;">
+
+   
+    <h2 class="fw-bold mb-3" style="color: var(--lux-heading),var(--lux-text);">Create an account</h2>
+
+    
+    <div class="d-flex gap-2 mb-4">
+      <button type="button" class="btn px-4 py-2 fw-bold"
+              [style.background-color]="selectedRole === 'researcher' ? 'var(--lux-primary)' : 'var(--lux-surface)'"
+              [style.color]="selectedRole === 'researcher' ? 'var(--lux-on-primary)' : 'var(--lux-text)'"
+              [style.border-color]="'var(--lux-border)'"
+              (click)="selectedRole = 'researcher'">
+        Researcher
+      </button>
+
+      <button type="button" class="btn px-4 py-2 fw-bold"
+              [style.background-color]="selectedRole === 'company' ? 'var(--lux-primary)' : 'var(--lux-surface)'"
+              [style.color]="selectedRole === 'company' ? 'var(--lux-on-primary)' : 'var(--lux-text)'"
+              [style.border-color]="'var(--lux-border)'"
+              (click)="selectedRole = 'company'">
+        Company
+      </button>
+    </div>
+
+   
+    <div class="card shadow-sm p-4 border" style="background-color: var(--lux-surface); border-color: var(--lux-border) !important;">
+      <form class="needs-validation">
+
+        <div class="row g-3 mb-4">
+          <!-- Full name -->
+          <div class="col-md-6">
+            <label class="form-label small" style="color: var(--lux-text);">Full name <span class="text-danger">*</span></label>
+            <input type="text" class="form-control bg-transparent text-body border-secondary" required>
+          </div>
+
+          <!-- Email -->
+          <div class="col-md-6">
+            <label class="form-label small" style="color: var(--lux-text);">Email <span class="text-danger">*</span></label>
+            <input type="email" class="form-control bg-transparent text-body border-secondary" required>
+          </div>
+
+          <!-- Password -->
+          <div class="col-md-6">
+            <label class="form-label small" style="color: var(--lux-text);">Password <span class="text-danger">*</span></label>
+            <input type="password" class="form-control bg-transparent text-body border-secondary" required>
+          </div>
+
+          <!-- Faculty-->
+          @if (selectedRole === 'researcher') {
+          <div class="col-md-6">
+            <label class="form-label small" style="color: var(--lux-text);">Faculty <span class="text-danger">*</span></label>
+            <select class="form-select bg-transparent text-body border-secondary">
+              <option selected style="background-color: var(--lux-surface); color: var(--lux-text);">Select...</option>
+              <option style="background-color: var(--lux-surface); color: var(--lux-text);">Faculty of Science</option>
+              <option style="background-color: var(--lux-surface); color: var(--lux-text);">Faculty of Computers & Information</option>
+              <option style="background-color: var(--lux-surface); color: var(--lux-text);">Faculty of Medicine</option>
+            </select>
+          </div>
+
+          <div class="col-md-6">
+            <label class="form-label small" style="color: var(--lux-text);">Department <span class="text-danger">*</span></label>
+            <input type="text" class="form-control bg-transparent text-body border-secondary" required>
+          </div>
+          } @else {
+          <!--Company -->
+          <div class="col-md-6">
+            <label class="form-label small" style="color: var(--lux-text);">Company name <span class="text-danger">*</span></label>
+            <input type="text" class="form-control bg-transparent text-body border-secondary" required>
+          </div>
+          }
+        </div>
+
+        
+        <div>
+          <button type="submit" class="btn btn-primary px-4 py-2">Register</button>
+        </div>
+
+      </form>
+    </div>
+
+  </div>
+</div>

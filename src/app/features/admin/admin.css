@@ -1,0 +1,21 @@
+.admin-sidebar {
+  background-color: var(--lux-surface, #0a0d2e);
+}
+
+  .admin-sidebar .nav-link {
+    transition: all 0.2s ease;
+    color: var(--lux-muted, #a3a8d6) !important;
+    font-size: 0.92rem;
+  }
+
+    .admin-sidebar .nav-link:hover {
+      background-color: rgba(var(--lux-primary-rgb), 0.15);
+      color: var(--lux-heading, #ffffff) !important;
+    }
+
+    
+    .admin-sidebar .nav-link.active {
+      background-color: var(--lux-primary, #8f97ff) !important;
+      color: var(--lux-on-primary, #0c0f2a) !important;
+      font-weight: 700;
+    }

@@ -1,0 +1,72 @@
+:root[data-bs-theme] {
+  --bs-body-font-family: Almarai, Tahoma, 'Segoe UI', sans-serif;
+  --bs-body-line-height: 1.65;
+  --bs-body-bg: var(--lux-bg);
+  --bs-body-bg-rgb: var(--lux-bg-rgb);
+  --bs-body-color: var(--lux-text);
+  --bs-body-color-rgb: var(--lux-text-rgb);
+  --bs-secondary-color: var(--lux-muted);
+  --bs-secondary-bg: var(--lux-primary-soft);
+  --bs-tertiary-bg: var(--lux-primary-soft);
+  --bs-border-color: var(--lux-border);
+  --bs-border-radius: 4px;
+  --bs-heading-color: var(--lux-heading);
+  --bs-primary: var(--lux-primary);
+  --bs-primary-rgb: var(--lux-primary-rgb);
+  --bs-link-color: var(--lux-primary);
+  --bs-link-color-rgb: var(--lux-primary-rgb);
+  --bs-link-hover-color: var(--lux-primary);
+  --bs-link-hover-color-rgb: var(--lux-primary-rgb);
+}
+
+:focus-visible {
+  outline: 3px solid var(--lux-focus);
+  outline-offset: 2px;
+}
+
+/*btns*/
+:root .btn {
+  --bs-btn-font-weight: 700;
+}
+
+:root .btn-primary {
+  --bs-btn-color: var(--lux-on-primary);
+  --bs-btn-bg: var(--lux-primary);
+  --bs-btn-border-color: var(--lux-primary);
+  --bs-btn-hover-color: var(--lux-on-primary);
+  --bs-btn-hover-bg: var(--lux-primary);
+  --bs-btn-hover-border-color: var(--lux-primary);
+  --bs-btn-focus-shadow-rgb: var(--lux-primary-rgb);
+  --bs-btn-active-color: var(--lux-on-primary);
+  --bs-btn-active-bg: var(--lux-primary);
+  --bs-btn-active-border-color: var(--lux-primary);
+  --bs-btn-disabled-color: var(--lux-on-primary);
+  --bs-btn-disabled-bg: var(--lux-primary);
+  --bs-btn-disabled-border-color: var(--lux-primary);
+}
+
+  :root .btn-primary:hover {
+    filter: brightness(1.12);
+  }
+
+:root .btn-outline-primary {
+  --bs-btn-color: var(--lux-primary);
+  --bs-btn-border-color: var(--lux-primary);
+  --bs-btn-hover-color: var(--lux-on-primary);
+  --bs-btn-hover-bg: var(--lux-primary);
+  --bs-btn-hover-border-color: var(--lux-primary);
+  --bs-btn-focus-shadow-rgb: var(--lux-primary-rgb);
+  --bs-btn-active-color: var(--lux-on-primary);
+  --bs-btn-active-bg: var(--lux-primary);
+  --bs-btn-active-border-color: var(--lux-primary);
+  --bs-btn-disabled-color: var(--lux-primary);
+  --bs-btn-disabled-border-color: var(--lux-primary);
+}
+
+/*card bg */
+:root .card {
+  --bs-card-bg: var(--lux-surface);
+  --bs-card-border-color: var(--lux-border);
+  --bs-card-border-radius: 6px;
+  --bs-card-inner-border-radius: 5px;
+}

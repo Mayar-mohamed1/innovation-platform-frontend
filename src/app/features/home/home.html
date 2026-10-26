@@ -1,0 +1,131 @@
+
+<!--inro recangular-->
+<div class="hero-section text-white py-5">
+  <div class="container py-5">
+    <div class="row align-items-center">
+
+
+      <div class="col-lg-7 text-end">
+        <h1 class="display-5 fw-bold mb-3" style="line-height: 1.4;color:var(--text-lux)">
+          {{ 'home.title' | translate }}
+        </h1>
+        <p class="lead text-white-50 mb-4" style="font-size: 1.1rem;">
+          {{ 'home.subtitle' | translate }}
+        </p>
+        <div class="d-flex flex-wrap gap-3">
+          <a routerLink="/register" class="btn btn-light text-primary fw-bold px-4 py-2">
+            {{ 'home.ctaJoin' | translate }}
+          </a>
+          <a routerLink="/innovations" class="btn btn-outline-light px-4 py-2">
+            {{ 'home.ctaInnovations' | translate }}
+          </a>
+          <a routerLink="/challenges" class="btn btn-outline-light px-4 py-2">
+            {{ 'home.ctaChallenges' | translate }}
+          </a>
+        </div>
+      </div>
+
+
+      <div class="col-lg-5 text-center mt-4 mt-lg-0">
+        <div class="d-inline-block">
+          <div class="bg-transparent rounded-3 text-center d-flex align-items-center justify-content-center" style="width: 320px; height: 320px; margin: 0 auto;">
+            <img src="assets/images/luxor-uni-logo.png" alt="Luxor University Logo" class="img-fluid w-100 h-100" style="object-fit: contain;">
+          </div>
+        </div>
+      </div>
+
+
+
+    </div>
+  </div>
+</div>
+
+
+
+
+<section class="container py-5">
+  <div class="d-flex justify-content-between align-items-center mb-4">
+    <h2 class="fw-bold" style="color: var(--lux-text);">{{ 'sections.featuredInnovations' | translate }}</h2>
+  </div>
+
+  <div class="row g-4">
+    @for (item of innovations; track item.id) {
+    <div class="col-md-6">
+      <div class="card lux-card p-4 h-100 shadow-sm">
+        <div class="d-flex justify-content-between align-items-start mb-3">
+          <span class="badge lux-badge px-3 py-2">
+            <i class="fa-solid fa-lightbulb ms-1"></i> {{ item.tagKey | translate }}
+          </span>
+        </div>
+        <h3 class="h5 fw-bold mb-2" style="color: var(--lux-text);">{{ item.titleKey | translate }}</h3>
+        <p class="small mb-4 flex-grow-1" style="color: var(--lux-muted);">{{ item.descKey | translate }}</p>
+        <div>
+          <a routerLink="/innovations/{{ item.id }}" class="btn btn-outline-primary btn-sm px-3">
+            {{ 'sections.detailsButton' | translate }} <i class="fa-solid fa-arrow-left me-1"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+    }
+  </div>
+</section>
+
+
+<section class="container py-5">
+  <div class="d-flex justify-content-between align-items-center mb-4">
+    <h2 class="fw-bold text-body">{{ 'sections.featuredInnovations' | translate }}</h2>
+  </div>
+
+  <div class="row g-4">
+    @for (item of challenges; track item.id) {
+    <div class="col-md-6">
+      <div class="card lux-card p-4 h-100 shadow-sm">
+        <div class="d-flex justify-content-between align-items-start mb-3">
+          <span class="badge lux-badge px-3 py-2">
+            <i class="fa-solid fa-bullseye ms-1"></i> {{ item.tagKey | translate }}
+          </span>
+        </div>
+        <h3 class="h5 fw-bold mb-2" style="color: var(--lux-heading);">{{ item.titleKey | translate }}</h3>
+        <p class="small mb-4 flex-grow-1" style="color: var(--lux-muted);">{{ item.descKey | translate }}</p>
+        <div>
+          <a routerLink="/challenges/{{ item.id }}" class="btn btn-outline-primary btn-sm px-3">
+            {{ 'sections.detailsButton' | translate }} <i class="fa-solid fa-arrow-left me-1"></i>
+          </a>
+        </div>
+      </div>
+    </div>
+    }
+  </div>
+</section>
+
+
+
+<section class="container py-5 mb-5">
+  <h2 class="fw-bold mb-4 text-start" style="color: var(--lux-heading);">{{ 'sections.howItWorks' | translate }}</h2>
+  <div class="row g-3">
+    <div class="col-md-3">
+      <div class="card lux-card p-3 h-100 text-center">
+        <h5 class="fw-bold mb-2" style="color: var(--lux-heading);">{{ 'howItWorksSteps.step1Title' | translate }}</h5>
+        <p class="small mb-0" style="color: var(--lux-muted);">{{ 'howItWorksSteps.step1Desc' | translate }}</p>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="card lux-card p-3 h-100 text-center">
+        <h5 class="fw-bold mb-2" style="color: var(--lux-heading);">{{ 'howItWorksSteps.step2Title' | translate }}</h5>
+        <p class="small mb-0" style="color: var(--lux-muted);">{{ 'howItWorksSteps.step2Desc' | translate }}</p>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="card lux-card p-3 h-100 text-center">
+        <h5 class="fw-bold mb-2" style="color: var(--lux-heading);">{{ 'howItWorksSteps.step3Title' | translate }}</h5>
+        <p class="small mb-0" style="color: var(--lux-muted);">{{ 'howItWorksSteps.step3Desc' | translate }}</p>
+      </div>
+    </div>
+    <div class="col-md-3">
+      <div class="card lux-card p-3 h-100 text-center">
+        <h5 class="fw-bold mb-2" style="color: var(--lux-heading);">{{ 'howItWorksSteps.step4Title' | translate }}</h5>
+        <p class="small mb-0" style="color: var(--lux-muted);">{{ 'howItWorksSteps.step4Desc' | translate }}</p>
+      </div>
+    </div>
+  </div>
+</section>

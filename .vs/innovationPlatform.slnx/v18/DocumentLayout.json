@@ -1,0 +1,802 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\shared\\components\\navbar\\navbar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\shared\\components\\navbar\\navbar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\public\\i18n\\en.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\i18n\\en.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\public\\i18n\\ar.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:public\\i18n\\ar.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\home\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\home\\home.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\home\\home.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\home\\home.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\home\\home.data.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\home\\home.data.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\styles\\tokens.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles\\tokens.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\styles\\base.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\styles\\base.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-judge\\login-judge.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\auth\\login\\login-judge\\login-judge.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-admin\\login-admin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\auth\\login\\login-admin\\login-admin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-options\\login-options.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\auth\\login\\login-options\\login-options.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\register\\register-options\\register-options.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\auth\\register\\register-options\\register-options.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-judge\\login-judge.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\auth\\login\\login-judge\\login-judge.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-admin\\login-admin.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\auth\\login\\login-admin\\login-admin.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-options\\login-options.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\auth\\login\\login-options\\login-options.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\register\\register-options\\register-options.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\auth\\register\\register-options\\register-options.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\register\\register-options\\register-options.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\auth\\register\\register-options\\register-options.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-matches\\admin-matches.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\components\\admin-matches\\admin-matches.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-matches-details\\admin-matches-details.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\components\\admin-matches-details\\admin-matches-details.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-matches-details\\admin-matches-details.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\components\\admin-matches-details\\admin-matches-details.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-matches\\admin-matches.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\components\\admin-matches\\admin-matches.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-matches\\admin-matches.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\components\\admin-matches\\admin-matches.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\admin.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\admin.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\admin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\admin.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\components\\challenge-form-config\\challenge-form-config.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\components\\form-config\\components\\challenge-form-config\\challenge-form-config.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\form-config.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\components\\form-config\\form-config.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\form-config.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\components\\form-config\\form-config.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\form-config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\components\\form-config\\form-config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\components\\challenge-form-config\\challenge-form-config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\components\\form-config\\components\\challenge-form-config\\challenge-form-config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\create-judge\\create-judge.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\components\\create-judge\\create-judge.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\create-judge\\create-judge.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\components\\create-judge\\create-judge.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-users\\admin-users.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\components\\admin-users\\admin-users.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-users\\admin-users.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\components\\admin-users\\admin-users.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\admin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-overview\\admin-overview.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\features\\admin\\components\\admin-overview\\admin-overview.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\app\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\index.html",
+              "RelativeDocumentMoniker": "src\\index.html",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\index.html",
+              "RelativeToolTip": "src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-25T21:07:33.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "home.html",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\home\\home.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\home\\home.html",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\home\\home.html",
+              "RelativeToolTip": "src\\app\\features\\home\\home.html",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAwwGcAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-25T20:27:50.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ar.json",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\public\\i18n\\ar.json",
+              "RelativeDocumentMoniker": "public\\i18n\\ar.json",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\public\\i18n\\ar.json",
+              "RelativeToolTip": "public\\i18n\\ar.json",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAUwEsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-25T15:55:46.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "en.json",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\public\\i18n\\en.json",
+              "RelativeDocumentMoniker": "public\\i18n\\en.json",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\public\\i18n\\en.json",
+              "RelativeToolTip": "public\\i18n\\en.json",
+              "ViewState": "AgIAADgAAAAAAAAAAAAQwEoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-25T15:55:59.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "home.ts",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\home\\home.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\home\\home.ts",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\home\\home.ts",
+              "RelativeToolTip": "src\\app\\features\\home\\home.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-25T20:27:59.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "navbar.html",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\shared\\components\\navbar\\navbar.html",
+              "RelativeDocumentMoniker": "src\\app\\shared\\components\\navbar\\navbar.html",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\shared\\components\\navbar\\navbar.html",
+              "RelativeToolTip": "src\\app\\shared\\components\\navbar\\navbar.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-25T15:56:23.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "home.data.ts",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\home\\home.data.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\home\\home.data.ts",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\home\\home.data.ts",
+              "RelativeToolTip": "src\\app\\features\\home\\home.data.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-25T20:51:37.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "base.css",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\styles\\base.css",
+              "RelativeDocumentMoniker": "src\\styles\\base.css",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\styles\\base.css",
+              "RelativeToolTip": "src\\styles\\base.css",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-25T15:55:16.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "tokens.css",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\styles\\tokens.css",
+              "RelativeDocumentMoniker": "src\\styles\\tokens.css",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\styles\\tokens.css",
+              "RelativeToolTip": "src\\styles\\tokens.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-25T15:55:23.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "login-judge.html",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-judge\\login-judge.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\auth\\login\\login-judge\\login-judge.html",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-judge\\login-judge.html",
+              "RelativeToolTip": "src\\app\\features\\auth\\login\\login-judge\\login-judge.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-25T19:28:37.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "login-admin.html",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-admin\\login-admin.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\auth\\login\\login-admin\\login-admin.html",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-admin\\login-admin.html",
+              "RelativeToolTip": "src\\app\\features\\auth\\login\\login-admin\\login-admin.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-25T19:20:15.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "login-researcher-company.html",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.html",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.html",
+              "RelativeToolTip": "src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-25T19:25:51.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "login-options.html",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-options\\login-options.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\auth\\login\\login-options\\login-options.html",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-options\\login-options.html",
+              "RelativeToolTip": "src\\app\\features\\auth\\login\\login-options\\login-options.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-25T18:43:31.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\angular.json",
+              "RelativeDocumentMoniker": "angular.json",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\angular.json",
+              "RelativeToolTip": "angular.json",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-25T20:09:03.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "register-options.html",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\register\\register-options\\register-options.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\auth\\register\\register-options\\register-options.html",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\register\\register-options\\register-options.html",
+              "RelativeToolTip": "src\\app\\features\\auth\\register\\register-options\\register-options.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-25T18:48:30.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "login-researcher-company.ts",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.ts",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.ts",
+              "RelativeToolTip": "src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-25T18:45:45.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "login-judge.ts",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-judge\\login-judge.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\auth\\login\\login-judge\\login-judge.ts",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-judge\\login-judge.ts",
+              "RelativeToolTip": "src\\app\\features\\auth\\login\\login-judge\\login-judge.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-25T19:31:35.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "login-admin.ts",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-admin\\login-admin.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\auth\\login\\login-admin\\login-admin.ts",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-admin\\login-admin.ts",
+              "RelativeToolTip": "src\\app\\features\\auth\\login\\login-admin\\login-admin.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-25T19:20:23.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "login-researcher-company.css",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.css",
+              "RelativeDocumentMoniker": "src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.css",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.css",
+              "RelativeToolTip": "src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-25T19:30:00.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "login-researcher-company.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.spec.ts",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.spec.ts",
+              "RelativeToolTip": "src\\app\\features\\auth\\login\\login-researcher-company\\login-researcher-company.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-25T19:26:38.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "login-options.ts",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-options\\login-options.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\auth\\login\\login-options\\login-options.ts",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\login\\login-options\\login-options.ts",
+              "RelativeToolTip": "src\\app\\features\\auth\\login\\login-options\\login-options.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-25T18:44:43.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "src\\app\\app.routes.ts",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "src\\app\\app.routes.ts",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwEsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-25T15:47:36.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "register-options.ts",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\register\\register-options\\register-options.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\auth\\register\\register-options\\register-options.ts",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\register\\register-options\\register-options.ts",
+              "RelativeToolTip": "src\\app\\features\\auth\\register\\register-options\\register-options.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-25T18:48:33.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "register-options.css",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\register\\register-options\\register-options.css",
+              "RelativeDocumentMoniker": "src\\app\\features\\auth\\register\\register-options\\register-options.css",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\auth\\register\\register-options\\register-options.css",
+              "RelativeToolTip": "src\\app\\features\\auth\\register\\register-options\\register-options.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-25T19:05:51.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "app.html",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\app.html",
+              "RelativeDocumentMoniker": "src\\app\\app.html",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\app.html",
+              "RelativeToolTip": "src\\app\\app.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-25T18:43:51.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "admin-matches.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-matches\\admin-matches.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\components\\admin-matches\\admin-matches.spec.ts",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-matches\\admin-matches.spec.ts",
+              "RelativeToolTip": "src\\app\\features\\admin\\components\\admin-matches\\admin-matches.spec.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-25T18:16:35.455Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "admin-matches.ts",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-matches\\admin-matches.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\components\\admin-matches\\admin-matches.ts",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-matches\\admin-matches.ts",
+              "RelativeToolTip": "src\\app\\features\\admin\\components\\admin-matches\\admin-matches.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-25T17:32:05.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "admin-matches.html",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-matches\\admin-matches.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\components\\admin-matches\\admin-matches.html",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-matches\\admin-matches.html",
+              "RelativeToolTip": "src\\app\\features\\admin\\components\\admin-matches\\admin-matches.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-25T17:31:46.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "admin-matches-details.ts",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-matches-details\\admin-matches-details.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\components\\admin-matches-details\\admin-matches-details.ts",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-matches-details\\admin-matches-details.ts",
+              "RelativeToolTip": "src\\app\\features\\admin\\components\\admin-matches-details\\admin-matches-details.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-25T17:40:35.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "admin-matches-details.html",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-matches-details\\admin-matches-details.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\components\\admin-matches-details\\admin-matches-details.html",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-matches-details\\admin-matches-details.html",
+              "RelativeToolTip": "src\\app\\features\\admin\\components\\admin-matches-details\\admin-matches-details.html",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-25T17:40:27.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "admin.ts",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\admin.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\admin.ts",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\admin.ts",
+              "RelativeToolTip": "src\\app\\features\\admin\\admin.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-25T15:54:30.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "admin.html",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\admin.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\admin.html",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\admin.html",
+              "RelativeToolTip": "src\\app\\features\\admin\\admin.html",
+              "ViewState": "AgIAABEAAAAAAAAAAAAmwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-25T15:40:54.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "challenge-form-config.html",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\components\\challenge-form-config\\challenge-form-config.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\components\\form-config\\components\\challenge-form-config\\challenge-form-config.html",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\components\\challenge-form-config\\challenge-form-config.html",
+              "RelativeToolTip": "src\\app\\features\\admin\\components\\form-config\\components\\challenge-form-config\\challenge-form-config.html",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAowAcBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-25T16:50:15.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "innovation-form-config.html",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.html",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.html",
+              "RelativeToolTip": "src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.html",
+              "ViewState": "AgIAAOwAAAAAAAAAAAAowPoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-25T16:48:08.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "form-config.css",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\form-config.css",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\components\\form-config\\form-config.css",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\form-config.css",
+              "RelativeToolTip": "src\\app\\features\\admin\\components\\form-config\\form-config.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-25T16:44:58.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "form-config.html",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\form-config.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\components\\form-config\\form-config.html",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\form-config.html",
+              "RelativeToolTip": "src\\app\\features\\admin\\components\\form-config\\form-config.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-25T16:35:35.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "innovation-form-config.spec.ts",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.spec.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.spec.ts",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.spec.ts",
+              "RelativeToolTip": "src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-25T17:05:58.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "innovation-form-config.css",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.css",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.css",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.css",
+              "RelativeToolTip": "src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-25T17:01:57.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "form-config.ts",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\form-config.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\components\\form-config\\form-config.ts",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\form-config.ts",
+              "RelativeToolTip": "src\\app\\features\\admin\\components\\form-config\\form-config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-25T16:35:41.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "challenge-form-config.ts",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\components\\challenge-form-config\\challenge-form-config.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\components\\form-config\\components\\challenge-form-config\\challenge-form-config.ts",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\components\\challenge-form-config\\challenge-form-config.ts",
+              "RelativeToolTip": "src\\app\\features\\admin\\components\\form-config\\components\\challenge-form-config\\challenge-form-config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-25T16:50:25.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "innovation-form-config.ts",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.ts",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.ts",
+              "RelativeToolTip": "src\\app\\features\\admin\\components\\form-config\\components\\innovation-form-config\\innovation-form-config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-25T16:50:05.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "create-judge.ts",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\create-judge\\create-judge.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\components\\create-judge\\create-judge.ts",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\create-judge\\create-judge.ts",
+              "RelativeToolTip": "src\\app\\features\\admin\\components\\create-judge\\create-judge.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-25T16:30:26.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "create-judge.html",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\create-judge\\create-judge.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\components\\create-judge\\create-judge.html",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\create-judge\\create-judge.html",
+              "RelativeToolTip": "src\\app\\features\\admin\\components\\create-judge\\create-judge.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-25T16:30:00.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "admin-users.html",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-users\\admin-users.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\components\\admin-users\\admin-users.html",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-users\\admin-users.html",
+              "RelativeToolTip": "src\\app\\features\\admin\\components\\admin-users\\admin-users.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-25T16:24:33.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "admin-users.ts",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-users\\admin-users.ts",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\components\\admin-users\\admin-users.ts",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-users\\admin-users.ts",
+              "RelativeToolTip": "src\\app\\features\\admin\\components\\admin-users\\admin-users.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-10-25T16:24:39.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "admin.css",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\admin.css",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\admin.css",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\admin.css",
+              "RelativeToolTip": "src\\app\\features\\admin\\admin.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-25T15:59:58.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "admin-overview.html",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-overview\\admin-overview.html",
+              "RelativeDocumentMoniker": "src\\app\\features\\admin\\components\\admin-overview\\admin-overview.html",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\features\\admin\\components\\admin-overview\\admin-overview.html",
+              "RelativeToolTip": "src\\app\\features\\admin\\components\\admin-overview\\admin-overview.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-10-25T15:54:19.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\app.css",
+              "RelativeDocumentMoniker": "src\\app\\app.css",
+              "ToolTip": "C:\\Users\\Office\\Desktop\\Innovation platform\\Innovation_Platform\\Frontend\\innovationPlatform\\src\\app\\app.css",
+              "RelativeToolTip": "src\\app\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-10-25T15:47:38.403Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
